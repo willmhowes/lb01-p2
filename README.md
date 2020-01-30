@@ -7,3 +7,4 @@ Goals
 - [X] Push changes to github
 - [ ] Challenge Jim to a `git push` speedrun
 - [ ] Take Jim's job
+- [ ] Send Jim an apology letter
